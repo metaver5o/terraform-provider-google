@@ -27,11 +27,10 @@ require (
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/zclconf/go-cty v1.5.1 // indirect
-	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
-	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
-	google.golang.org/api v0.46.0
-	google.golang.org/genproto v0.0.0-20210503173045-b96a97608f20 // indirect
-	google.golang.org/grpc v1.38.0
+	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b
+	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
+	google.golang.org/api v0.100.0
+	google.golang.org/grpc v1.50.1
 	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
 
